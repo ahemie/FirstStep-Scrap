@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+python-dotenv>=1.0,<2
+supabase>=2.0,<3
+apify-client>=2.0,<4
